@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vaccination Consent Form</title>
+
+     <link rel="stylesheet" href="assets/css/style.css"> 
+</head>
+<body>
+    <div class="container">
+        <form>
+                    <div class="grid-3">
+                        <div>
+                            <img src="assets/image/ui_pic1.jpg" alt="Medical Logo" style="width: 90px; height: 80px;">
+                        </div>
+
+                        <div>
+                            <h2 class="h-line"><span class="hline2">HEALTH CITY</span></h2>
+                            <h2 class="s-line"><span class="sline2">HOSPITAL</span></h2>
+                        </div>
+                    </div>
+
+            <h2 class="subheader" >Vaccination Consent Form</h2>
+            <h3>Patient Information</h3>
+
+            <div class="form-group">
+                <label for="country">Name*</label>
+                <input type="text" id="n_name" name="n_name" required>
+            </div>
+
+            <div class="form-group">
+                <div class="grid-2">
+                    <div>
+                        <label class="ff">Date of Birth*</label>
+                        <input type="date" id="dob" name="dob" required placeholder="dd/mm/yyyy">
+                    </div>
+                    <div>
+                        <label for="phone">Phone Number*</label>
+                        <input type="tel" id="phone" name="phone" required>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="grid-2">
+                    <div>
+                        <label class="label2">Medical number(if known)</label>
+                        <input type="text" id="another-phone" name="another-phone">
+                    </div>
+                    <div>
+                        <label for="email">Email Address*</label>
+                        <input type="email" id="email" name="email"  required>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="street">Address*</label>
+                <div class="grid-2">
+                    <div>
+                        <label class="address">Street*</label>
+                        <input type="text" id="street" name="street"required>
+                    </div>
+                    <div>
+                        <label class="address">City/Suburb</label>
+                        <input type="text" id="city" name="city" >
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="grid-2">
+                    <div>
+                        <label class="address">State*</label>
+                        <input type="text" id="state" name="state"  required>
+                    </div>
+                    <div>
+                        <label class="address">Zip/Post Code*</label>
+                        <input type="text" id="pincode" name="pincode"  required>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="address">Country*</label>
+                <input type="text" id="country" name="country"  required>
+            </div>
+
+            <!-- <button type="submit">Submit</button> -->
+        </form>
+    </div>
+</body>
+</html>

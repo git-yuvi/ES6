@@ -1,0 +1,172 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 600px; /* Adjust the maximum width as needed */
+    background-color: #3d596f;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 100%;
+}
+
+form {
+    display: grid;
+    gap: 8px;
+    width: 100%;
+}
+
+h2, h3 {
+    text-align: center;
+    color: #fff;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+.grid-3 {
+    background-color: transparent;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* grid-template-columns: 1fr auto 1fr; */ 
+    font-family: Tahoma, sans-serif;
+    margin: 20px; 
+}
+.h-line {
+    font-family: 'Gill Sans', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    margin-bottom: 10px;
+
+}
+.s-line{
+    
+    font-family: Tahoma, sans-serif;
+    line-height:10px;
+    font-size: 35px; 
+    font-weight:700;
+   
+ }
+
+label {
+    font-family: Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size:medium;
+    margin-bottom: 5px;
+    color: #fff;
+}
+
+input[type="text"],
+input[type="tel"],
+input[type="email"] {
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 0.2px solid white;
+    outline: none;
+    width: 100%;
+    color: #fff;
+}
+
+/* Hide the input box content */
+input[type="date"] {
+color: transparent;
+background-color: transparent;
+border: none;
+border-bottom: 1px solid;
+padding:8px;
+border-image: linear-gradient(to right, #fff 75%, transparent 50%) 100% 1;
+outline: none;
+width:100mvh;
+font-family: Tahoma, sans-serif;
+
+}
+
+/* Style the datepicker indicator */
+input[type="date"]::-webkit-calendar-picker-indicator {
+cursor: pointer;
+padding: 4px 10px;
+border-radius: 10px;
+background-color: #fff;
+}
+
+/* Style the datepicker text (placeholder) */
+input[type="date"]::before {
+content: "   DD / MM / YYYY "; /* Set your desired placeholder text */
+color: darkgray;
+display:flex;
+justify-content: space-between;
+}
+
+/* Style the slashes in the placeholder to be white */
+input[type="date"]::before::after {
+
+content: "/";
+color: #fff;
+margin: 0 5px;
+}
+
+
+
+ /* old */
+
+
+.subheader{
+   font-weight: light; 
+   font-family: 'Gill Sans', sans-serif;
+
+}
+
+
+
+.ff {
+    font-family: Tahoma, sans-serif;
+}
+.address{
+    font-size: small;
+}
+
+@media (max-width: 425px) {
+    label, .address{
+        font-size: 10px;
+    }
+    .hline2, .subheader{
+        font-size: 19px;
+    }
+    .sline2{
+        font-size: 25px;
+        line-height: 1px;
+    }
+    
+}
+@media (min-width: 426px) {
+    .container{
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+    
+}
