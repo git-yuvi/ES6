@@ -1,49 +1,101 @@
-       "country":"australia",
-       "batsman":[
+ "bowlers":[
           {
-             "name":"steve smith",
+             "name":"mitchell starc",
              "formats":{
                 "test":{
-                   "matches":83,
-                   "innings":148,
-                   "runs":9600,
-                   "avg":60.0
+                   "matches":67,
+                   "innings":129,
+                   "wickets":274,
+                   "economy":3.34
                 },
                 "odi":{
-                   "matches":128,
-                   "innings":113,
-                   "runs":6109,
-                   "avg":43.3
+                   "matches":99,
+                   "innings":99,
+                   "wickets":195,
+                   "economy":5.15
                 },
                 "t20":{
-                   "matches":54,
-                   "innings":43,
-                   "runs":893,
-                   "avg":26.1
+                   "matches":50,
+                   "innings":50,
+                   "wickets":60,
+                   "economy":7.57
                 }
              }
           },
           {
-             "name":"david warner",
+             "name":"pat cummins",
              "formats":{
                 "test":{
-                   "matches":92,
-                   "innings":168,
-                   "runs":7652,
-                   "avg":47.51
+                   "matches":39,
+                   "innings":75,
+                   "wickets":186,
+                   "economy":2.76
                 },
                 "odi":{
-                   "matches":128,
-                   "innings":126,
-                   "runs":5455,
-                   "avg":45.5
+                   "matches":69,
+                   "innings":69,
+                   "wickets":111,
+                   "economy":5.25
                 },
                 "t20":{
-                   "matches":88,
-                   "innings":88,
-                   "runs":2554,
-                   "avg":32.7
+                   "matches":39,
+                   "innings":39,
+                   "wickets":44,
+                   "economy":7.05
+                }
+             }
+          },
+          {
+             "name":"josh hazzlewood",
+             "formats":{
+                "test":{
+                   "matches":57,
+                   "innings":107,
+                   "wickets":215,
+                   "economy":2.73
+                },
+                "odi":{
+                   "matches":56,
+                   "innings":55,
+                   "wickets":93,
+                   "economy":4.71
+                },
+                "t20":{
+                   "matches":27,
+                   "innings":27,
+                   "wickets":40,
+                   "economy":7.51
                 }
              }
           }
        ],
+       "allrounders":[
+          {
+             "name":"mitchell marsh",
+             "formats":{
+                "test":{
+                   "matches":32,
+                   "innings":55,
+                   "runs":1260,
+                   "avg":25.2,
+                   "wickets":42
+                },
+                "odi":{
+                   "matches":63,
+                   "innings":59,
+                   "runs":1672,
+                   "avg":33.4,
+                   "wickets":50
+                },
+                "t20":{
+                   "matches":36,
+                   "innings":35,
+                   "runs":885,
+                   "avg":31.6,
+                   "wickets":15
+                }
+             }
+          }
+       ]
+    }
+ ]
