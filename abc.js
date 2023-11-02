@@ -1,126 +1,73 @@
-  {
-             "name":"jasprit bumrah",
+      "country":"england",
+       "batsman":[
+          {
+             "name":"joe root",
              "formats":{
                 "test":{
-                   "matches":28,
-                   "innings":54,
-                   "wickets":115,
-                   "economy":2.65
+                   "matches":114,
+                   "innings":210,
+                   "runs":9600,
+                   "avg":49.2
                 },
                 "odi":{
-                   "matches":70,
-                   "innings":70,
-                   "wickets":113,
-                   "economy":4.65
+                   "matches":152,
+                   "innings":142,
+                   "runs":6109,
+                   "avg":51.3
                 },
                 "t20":{
+                   "matches":32,
+                   "innings":30,
+                   "runs":893,
+                   "avg":35.7
+                }
+             }
+          },
+          {
+             "name":"jonny bairstow",
+             "formats":{
+                "test":{
+                   "matches":80,
+                   "innings":142,
+                   "runs":4575,
+                   "avg":34.1
+                },
+                "odi":{
+                   "matches":89,
+                   "innings":81,
+                   "runs":3498,
+                   "avg":47.9
+                },
+                "t20":{
+                   "matches":63,
+                   "innings":57,
+                   "runs":1190,
+                   "avg":26.4
+                }
+             }
+          },
+          {
+             "name":"jos buttler",
+             "formats":{
+                "test":{
                    "matches":57,
-                   "innings":56,
-                   "wickets":67,
-                   "economy":6.50
-                }
-             }
-          },
-          {
-             "name":"bhuvaneshwar kumar",
-             "formats":{
-                "test":{
-                   "matches":21,
-                   "innings":37,
-                   "wickets":63,
-                   "economy":2.94
+                   "innings":100,
+                   "runs":2907,
+                   "avg":31.9
                 },
                 "odi":{
-                   "matches":121,
-                   "innings":120,
-                   "wickets":141,
-                   "economy":5.08
+                   "matches":148,
+                   "innings":123,
+                   "runs":3872,
+                   "avg":38.7
                 },
                 "t20":{
-                   "matches":59,
-                   "innings":59,
-                   "wickets":63,
-                   "economy":6.99
-                }
-             }
-          },
-          {
-             "name":"mohammed shami",
-             "formats":{
-                "test":{
-                   "matches":58,
-                   "innings":110,
-                   "wickets":212,
-                   "economy":3.27
-                },
-                "odi":{
-                   "matches":79,
-                   "innings":78,
-                   "wickets":148,
-                   "economy":5.62
-                },
-                "t20":{
-                   "matches":17,
-                   "innings":17,
-                   "wickets":18,
-                   "economy":9.54
+                   "matches":88,
+                   "innings":80,
+                   "runs":2140,
+                   "avg":34.5
                 }
              }
           }
        ],
-       "allrounders":[
-          {
-             "name":"hardik pandya",
-             "formats":{
-                "test":{
-                   "matches":11,
-                   "innings":18,
-                   "runs":532,
-                   "avg":31.3,
-                   "wickets":17
-                },
-                "odi":{
-                   "matches":63,
-                   "innings":46,
-                   "runs":1286,
-                   "avg":33.0,
-                   "wickets":57
-                },
-                "t20":{
-                   "matches":54,
-                   "innings":36,
-                   "runs":553,
-                   "avg":20.5,
-                   "wickets":42
-                }
-             }
-          },
-          {
-             "name":"ravindra jadeja",
-             "formats":{
-                "test":{
-                   "matches":58,
-                   "innings":85,
-                   "runs":2411,
-                   "avg":36.5,
-                   "wickets":241
-                },
-                "odi":{
-                   "matches":168,
-                   "innings":113,
-                   "runs":2411,
-                   "avg":32.6,
-                   "wickets":188
-                },
-                "t20":{
-                   "matches":58,
-                   "innings":29,
-                   "runs":326,
-                   "avg":21.7,
-                   "wickets":48
-                }
-             }
-          }
-       ]
-    },
-    {
+       "bowlers":[
