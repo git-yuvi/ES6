@@ -1,77 +1,49 @@
-     {
-             "name":"stuart broad",
+       "country":"australia",
+       "batsman":[
+          {
+             "name":"steve smith",
              "formats":{
                 "test":{
-                   "matches":152,
-                   "innings":280,
-                   "wickets":537,
-                   "economy":2.93
+                   "matches":83,
+                   "innings":148,
+                   "runs":9600,
+                   "avg":60.0
                 },
                 "odi":{
-                   "matches":121,
-                   "innings":121,
-                   "wickets":178,
-                   "economy":5.26
+                   "matches":128,
+                   "innings":113,
+                   "runs":6109,
+                   "avg":43.3
                 },
                 "t20":{
-                   "matches":56,
-                   "innings":55,
-                   "wickets":65,
-                   "economy":7.62
+                   "matches":54,
+                   "innings":43,
+                   "runs":893,
+                   "avg":26.1
                 }
              }
           },
           {
-             "name":"james anderson",
+             "name":"david warner",
              "formats":{
                 "test":{
-                   "matches":169,
-                   "innings":314,
-                   "wickets":640,
-                   "economy":2.80
+                   "matches":92,
+                   "innings":168,
+                   "runs":7652,
+                   "avg":47.51
                 },
                 "odi":{
-                   "matches":194,
-                   "innings":191,
-                   "wickets":269,
-                   "economy":4.92
+                   "matches":128,
+                   "innings":126,
+                   "runs":5455,
+                   "avg":45.5
                 },
                 "t20":{
-                   "matches":19,
-                   "innings":19,
-                   "wickets":18,
-                   "economy":7.84
+                   "matches":88,
+                   "innings":88,
+                   "runs":2554,
+                   "avg":32.7
                 }
              }
           }
        ],
-       "allrounders":[
-          {
-             "name":"ben stokes",
-             "formats":{
-                "test":{
-                   "matches":76,
-                   "innings":140,
-                   "runs":4867,
-                   "avg":36.0,
-                   "wickets":167
-                },
-                "odi":{
-                   "matches":101,
-                   "innings":86,
-                   "runs":2871,
-                   "avg":40.4,
-                   "wickets":74
-                },
-                "t20":{
-                   "matches":34,
-                   "innings":28,
-                   "runs":442,
-                   "avg":20.1,
-                   "wickets":19
-                }
-             }
-          }
-       ]
-    },
-{
