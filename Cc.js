@@ -1,3 +1,4 @@
+//JSON
 const stats = [
     {
         "country": "india",
