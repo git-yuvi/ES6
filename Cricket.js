@@ -1,4 +1,5 @@
-          {
+//JSON
+{
              "name":"steve smith",
              "formats":{
                 "test":{
