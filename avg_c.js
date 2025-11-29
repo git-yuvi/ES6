@@ -1,4 +1,4 @@
-//Average
+//AverageData
 const allBatsmen = stats.reduce((acc, country) => {
    return acc.concat(country.batsman);
  }, []);
