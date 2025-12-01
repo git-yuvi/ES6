@@ -1,4 +1,4 @@
-//JSON1
+//LearnJSON
 const stats = [
     {
         "country": "india",
