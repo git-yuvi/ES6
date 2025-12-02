@@ -1,4 +1,4 @@
-//cricketAvg
+//CricketAverage
 cricketData.forEach((team) => {
     team.batsman.sort((a, b) => {
         if (a.formats.test.avg < b.formats.test.avg) {
