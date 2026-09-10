@@ -1,4 +1,4 @@
-// Geolocation API
+// JavaScript Geolocation API
 <!DOCTYPE html>
 <html>
 <body>
