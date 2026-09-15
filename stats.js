@@ -1,4 +1,4 @@
-//CricketJSON
+//Cricket JSON
 <!DOCTYPE html>
 <html>
 <head>
