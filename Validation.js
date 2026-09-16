@@ -1,5 +1,4 @@
-// Validation API
-<!DOCTYPE html>
+// JavaScript Validation API
 <html>
 <body>
 
