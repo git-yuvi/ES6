@@ -1,4 +1,4 @@
-//Js Iterators
+//JavaScript Iterators
 <html>
 <body>
 <h1>JavaScript Iterators</h1>
