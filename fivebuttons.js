@@ -1,4 +1,4 @@
-//Fivebuttons
+//Js Fivebuttons
  const output = document.getElementById('output');
  
  function displayData(data) {
