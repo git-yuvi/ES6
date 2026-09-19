@@ -1,4 +1,4 @@
-//Twobutton
+//Js Twobutton
 const batterButton = document.getElementById("batter-button");
 const bowlerButton = document.getElementById("bowler-button");
 const resetButton = document.getElementById("reset-button");
