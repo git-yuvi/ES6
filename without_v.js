@@ -1,4 +1,4 @@
-//Function to filter and display batsmen and all-rounders without wickets
+//Js Function to filter and display batsmen and all-rounders without wickets
 function displayBatsmenAndAllroundersWithoutWickets(data) {
   data.forEach((country) => {
     console.log(`Country: ${country.country}`);
