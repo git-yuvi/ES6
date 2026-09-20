@@ -1,4 +1,4 @@
-//JSON.stringify()method converts a JavaScript value into JSON text
+//JSON.stringify()method converts a Javascript value into JSON text
 <html>
 <body>
 <h1>JavaScript JSON</h1>
