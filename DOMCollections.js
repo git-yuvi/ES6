@@ -1,4 +1,4 @@
-//Javascript DOM Collections
+//Js DOM Collections
 <!DOCTYPE html>
 <html>
 <body>
