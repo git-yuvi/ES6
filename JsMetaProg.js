@@ -1,4 +1,4 @@
-//Js Meta programming
+//JavaScript Meta programming
 <!DOCTYPE html>
 <html>
 <body>
