@@ -1,4 +1,4 @@
-// Cricket JSON
+// Cricket JSON data
 <!DOCTYPE html>
 <html>
 <head>
