@@ -1,4 +1,4 @@
-//Js DOM Navigation
+//JavaScript DOM Navigation
 <!DOCTYPE html>
 <html>
 <body>
