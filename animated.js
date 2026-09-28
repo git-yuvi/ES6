@@ -1,4 +1,4 @@
-//DOM Animation
+//JavaScript DOM Animation
 <html>
 <style>
 #container {
