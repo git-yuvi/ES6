@@ -1,4 +1,4 @@
-//Finding HTML Element by Id
+//Finding HTML Elements by Id
 <html>
 <body>
 
