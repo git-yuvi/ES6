@@ -1,4 +1,4 @@
-//Javascript DOM Elements
+// Javascript DOM Elements
 <!DOCTYPE html>
 <html>
 <body>
