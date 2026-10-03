@@ -1,4 +1,4 @@
-// JavaScript Geolocation API
+// JavaScript learning Geolocation API
 <!DOCTYPE html>
 <html>
 <body>
