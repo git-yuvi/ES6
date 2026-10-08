@@ -1,4 +1,4 @@
-//Js Arrayhandling
+//Javascript Arrayhandling
 const arr2 = [];
 stats.forEach((value) => {
     value.batsman.forEach((item) => {
