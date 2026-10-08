@@ -1,4 +1,4 @@
-// Maintaining JSON Data
+// Maintaining JSON Data in JavaScript
 {
              "name":"steve smith",
              "formats":{
