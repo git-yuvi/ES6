@@ -1,4 +1,4 @@
-//response.json() method parses the JSON text and returns a JavaScript value.
+//response.JSON() method parses the JSON text and returns a JavaScript value.
 <!DOCTYPE html>
 <html>
 <body>
