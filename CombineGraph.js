@@ -1,4 +1,4 @@
-//Combination of Scatter plot and Line Graph in JavaScript
+//Combination of Scatter plot and Line Graph using JavaScript
 <html>
 <body>
 <canvas id="myCanvas" width="400" height="400" style="border:1px solid grey"></canvas>
