@@ -1,4 +1,4 @@
-//Vertical Bar Charts
+//Vertical Bar Charts using JavaScript
 <html>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <body>
