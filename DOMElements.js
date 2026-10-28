@@ -1,4 +1,4 @@
-// Javascript DOM Elements
+// Javascript understanding DOM Elements
 <!DOCTYPE html>
 <html>
 <body>
