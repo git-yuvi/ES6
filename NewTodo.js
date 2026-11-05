@@ -1,4 +1,4 @@
-// Updated Todo list
+// Updated Todo list in Js
 
 import { useEffect, useState } from "react"
 
