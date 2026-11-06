@@ -1,4 +1,4 @@
-//Doughnut Charts using JavaScript
+//Doughnut Charts using JScript
 <html>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0"></script>
 <body>
