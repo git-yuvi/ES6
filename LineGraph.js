@@ -1,4 +1,4 @@
-//Line Graphs in JavaScript
+//Line Graphs in JavaScript 
 <html>
 <body>
 <canvas id="myCanvas" width="400" height="400" style="border:1px solid grey"></canvas>
