@@ -1,4 +1,4 @@
-//Plotting Equations in Js
+//Plotting Equations in JavaScript
 <html>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
