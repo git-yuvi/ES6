@@ -1,4 +1,4 @@
-//Learn insertion of JSON Data
+//Learning insertion of JSON Data
 const stats = [
     {
         "country": "india",
