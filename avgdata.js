@@ -1,4 +1,4 @@
-//Cricket AverageData data insertion in JSON
+//Cricket AverageData data insertion in JSON 
 const allBatsmen = stats.reduce((acc, country) => {
    return acc.concat(country.batsman);
  }, []);
