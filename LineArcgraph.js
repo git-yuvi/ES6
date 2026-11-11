@@ -1,4 +1,4 @@
-// Type of Line Graphs
+//Type of Line Graphs
 <html>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <body>
