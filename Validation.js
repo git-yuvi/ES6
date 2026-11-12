@@ -1,4 +1,4 @@
-// JavaScript Validation API
+//JavaScript Validation API
 <html>
 <body>
 
