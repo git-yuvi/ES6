@@ -1,4 +1,4 @@
-//JavaScript Reject Object
+//JScript Reject Object
 <!DOCTYPE html>
 <html>
 <body>
