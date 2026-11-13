@@ -1,4 +1,4 @@
-//Scatter plot for House prices vs Size
+//Scatter plot for House prices vs Size 
 <html>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <body>
