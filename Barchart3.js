@@ -1,4 +1,4 @@
-//Examples of Bat chart using JavaScript
+//Examples of Bar chart using JavaScript
 <html>
 <script src="https://www.gstatic.com/charts/loader.js"></script>
 
